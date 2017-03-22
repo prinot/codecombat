@@ -687,7 +687,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    support_part3: "if you have any questions."
 
 #  announcement:
-#    cuddly_companions: "Cuddly Companions!"
+    cuddly_companions: "¡Compañeros Peluches!"
 #    kindling_name: "Kindling Elemental"
 #    kindling_description: "Kindling Elementals just want to keep you warm at night. And during the day. All the time, really."
 #    griffin_name: "Baby Griffin"
